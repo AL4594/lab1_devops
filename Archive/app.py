@@ -1,7 +1,6 @@
 from flask import Flask, redirect, render_template, request, url_for
 
-a=1423
-print(m)
+print(
 app = Flask(__name__)
 
 items = []
