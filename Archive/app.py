@@ -1,9 +1,10 @@
 from flask import Flask, redirect, render_template, request, url_for
 
+print("this is the error"
 app = Flask(__name__)
 
 items = []
-a=1
+
 
 @app.route('/')
 def index():
