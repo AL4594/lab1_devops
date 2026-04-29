@@ -1,6 +1,6 @@
 from flask import Flask, redirect, render_template, request, url_for
 
-print("this is the error"
+print(b)
 app = Flask(__name__)
 
 items = []
